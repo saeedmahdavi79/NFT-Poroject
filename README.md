@@ -1,1 +1,1 @@
-This is ui coded by saeed mahddavi.
+This is ui coded by saeed mahdavi.
